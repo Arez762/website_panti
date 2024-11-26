@@ -34,7 +34,7 @@
         document.addEventListener("DOMContentLoaded", function() {
             setTimeout(function() {
                 document.getElementById("loading-overlay").style.display = "none";
-            }, 1000); // Hide after 1 seconds
+            }, 2000); // Hide after 1 seconds
         });
     </script>
 
