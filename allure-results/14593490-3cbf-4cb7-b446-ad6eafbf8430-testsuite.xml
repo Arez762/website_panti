@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1732868005299' stop='1732868023013'>
+    <name>Add Page User Management</name>
+    <title>Add Page User Management</title>
+    <test-cases>
+        <test-case start='1732868005300' status='passed' stop='1732868015102'>
+            <name>should navigate to the Users page</name>
+            <title>should navigate to the Users page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1732868015121' status='passed' stop='1732868022997'>
+            <name>should navigate to the "Create New User" page</name>
+            <title>should navigate to the "Create New User" page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1732868023018' stop='1732868065475'>
+    <name>Page Create New User</name>
+    <title>Page Create New User</title>
+    <test-cases>
+        <test-case start='1732868023027' status='passed' stop='1732868065475'>
+            <name>should create a new user and then cancel the operation</name>
+            <title>should create a new user and then cancel the operation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

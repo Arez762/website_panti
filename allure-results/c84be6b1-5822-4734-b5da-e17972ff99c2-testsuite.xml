@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1732867956524' stop='1732868003131'>
+    <name>Admin Page Tests add News create</name>
+    <title>Admin Page Tests add News create</title>
+    <test-cases>
+        <test-case start='1732867956530' status='passed' stop='1732867964522'>
+            <name>should navigate to the News page</name>
+            <title>should navigate to the News page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1732867964548' status='passed' stop='1732867982323'>
+            <name>should create a new news article</name>
+            <title>should create a new news article</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1732867982338' status='passed' stop='1732868003131'>
+            <name>should create another type of news article</name>
+            <title>should create another type of news article</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

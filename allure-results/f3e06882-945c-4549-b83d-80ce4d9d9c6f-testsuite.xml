@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1732867940712' stop='1732867948034'>
+    <name>Admin Page Login</name>
+    <title>Admin Page Login</title>
+    <test-cases>
+        <test-case start='1732867940712' status='passed' stop='1732867948034'>
+            <name>should log in successfully</name>
+            <title>should log in successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

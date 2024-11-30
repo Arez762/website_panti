@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1732867798991' stop='1732867857052'>
+    <name>Add Category Creation</name>
+    <title>Add Category Creation</title>
+    <test-cases>
+        <test-case start='1732867798993' status='passed' stop='1732867807289'>
+            <name>should navigate to the "Create New Category" page</name>
+            <title>should navigate to the "Create New Category" page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1732867807299' status='passed' stop='1732867817721'>
+            <name>should create a new category</name>
+            <title>should create a new category</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1732867817736' status='passed' stop='1732867857052'>
+            <name>should cancel creating a new category</name>
+            <title>should cancel creating a new category</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

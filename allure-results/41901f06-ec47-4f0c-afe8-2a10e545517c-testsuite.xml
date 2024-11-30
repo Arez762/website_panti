@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1732867891123' stop='1732867938663'>
+    <name>Photo-Galleries Edit Gallery</name>
+    <title>Photo-Galleries Edit Gallery</title>
+    <test-cases>
+        <test-case start='1732867891125' status='passed' stop='1732867938663'>
+            <name>should create a new gallery and edit its title</name>
+            <title>should create a new gallery and edit its title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
